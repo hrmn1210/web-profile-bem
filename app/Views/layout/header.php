@@ -41,7 +41,7 @@
         <div class="container-fluid container-xl position-relative d-flex align-items-center justify-content-between">
             <a href="<?= base_url('/') ?>" class="logo d-flex align-items-center me-auto me-lg-0">
                 <img src="<?= base_url('assets/img/LOGO BEM.png') ?>" alt="Logo" style="height: 60px; margin-right: 10px;">
-                <h1 class="sitename">BEM UBSI PONTIANAK</h1><span>.</span>
+                <h1 class="sitename fs-4">BEM UBSI PONTIANAK</h1>
             </a>
 
             <nav id="navmenu" class="navmenu">
